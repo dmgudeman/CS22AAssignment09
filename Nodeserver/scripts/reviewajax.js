@@ -28,6 +28,7 @@
         };
     }
     function displayInfo(jsonString) {
+        console.log(jsonString);
         // convert the JSON encoded string to object
         var jsonObj = JSON.parse(jsonString);
         // build a string from the properties and their values.
@@ -42,3 +43,4 @@
     // Register event handlers to get the additional info if requested
     document.getElementById('business') .addEventListener('click', getAjaxData, false);
 }());
+ 
