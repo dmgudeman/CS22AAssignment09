@@ -1,0 +1,4 @@
+{"Name":"node",
+"Stands for: ":"node",
+"Definition":"It is a js framework that allows access ot JSS interpreter outside the browser",
+"blurb ":"Writtne in C, inode  supports an ansynchronous, event-driven model that makes it hishgly scalable. It contains an HTTP server library allowing it to be a stand alone webserver"}
