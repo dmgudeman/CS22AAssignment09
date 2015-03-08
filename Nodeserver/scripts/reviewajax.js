@@ -34,7 +34,10 @@
         // build a string from the properties and their values.
         var info = '';
         for (var prop in jsonObj) {
-            info += '<p>' + prop + ': ' + jsonObj[prop] + '<p>';
+            
+           info += '<p>'  + jsonObj[prop] + '<p>';
+         //  info += '<p>' + prop + ': ' + jsonObj[prop] + '<p>';
+
         }
         // display the additional info in the description html element
  

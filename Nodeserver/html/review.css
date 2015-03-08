@@ -1,5 +1,5 @@
 body {
-            background-color:#fdf5e6;
+            background-color:#9AD9EA;
             font-family: Sans-Serif;
             text-align:center;
 }
@@ -11,10 +11,18 @@ table {
             border-collapse:collapse;
 }
 td {
-            border:1px solid #eed9ba;
+            border:1px solid #9AD9EA;
 }
 th,  input{
-            background-color:#eecbad;
-            color:#ffffff;
+            background-color:#9AD9EA;
+            color:#0057A8;
 }
+ h2 {
+ 			color:#E81737;
+ }
+
+ div {
+ 			color:#0057A8;
+ }
+
  

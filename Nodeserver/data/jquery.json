@@ -1,4 +1,6 @@
-{"Name":"jQuery",
-"Why query? ":"query because you query the DOM for elements",
-"Definition":"It is a fast, small, and feature-rich JavaScript library",
-"blurb ":"designed to simplify the client-side scripting of HTML. jQuery's syntax is designed to make it easier to navigate a document, select DOM elements, create animations, handle events, and develop Ajax applications. "}
+{"Name ":"Name: jQuery",
+"Why name it Query? ":"Why name it Query? because you query the DOM for elements.",
+"Definition ":"Definition: It is a fast, small, and feature-rich JavaScript LIBRARY",
+"Description ":"Description: A LIBRARY designed to simplify the CLIENT-SIDE scripting of HTML.",
+"d2" : "jQuery's syntax is designed to make it easier to navigate a document, select",
+"d3" : "DOM elements, create animations, handle events, and develop Ajax applications. "}

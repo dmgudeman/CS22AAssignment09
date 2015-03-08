@@ -1,4 +1,5 @@
-{"Name":"Ajax",
-"Stands for ":"Asynchronously JavaScript and XML",
-"Definition":"blah blah",
-"blurb ":"blah, blah"}
+{"Name ":"Name: Ajax",
+"Stands for ":"Stands for: Asynchronously JavaScript and XML.",
+"Definition ":"Definition: Ajax is a SET OF TECHNIQUES for exchanging data with the server withour causing pages to reload.",
+"Description ":"Description: It allows the web to be updated asynchronously by exchanging small amounts of data with the server.",
+"D2" : "This results in a more responsive web application and a better user experience."}
